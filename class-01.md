@@ -23,6 +23,30 @@ Introduction to HTML
 
 3) The difference between `<article>` and `<section>` are the use case. Article elements are used to wrap similar contents, while a section element is used to set definite sections of a page.
 
-4)
+4) In a typical website, the common elements are `<!DOCTYPE>`, `<head>`, `<body>` and `<html>`
+
+5) Metadata influence SEO by having information in the head of an HTML (the portion not displayed) for any search engine to find your page and index it accordingly to relevance.
+
+6) The `<meta>` elemented is used to describe the data by varioua attributes, such as content.
+
+Miscellaneous: How to start to design a website
+
+1) The first step of designing a website is determing the the vision and what you want and how to implement it.
+
+2) The important questions to ask is how and when you need to do.
+
+Miscellaneious: Semantics
+
+1) The h1 element is an actual header that displays an emphasized text of the highest priority, whereas a span element just generates a generic inilne container to house content.
+
+2) Sementatic benifits by keeping the code organized for various purposes, such as SEO having an easier time indexing your page,  finding block of codes that's been organized by semantics easier to search through, or suggesting to other developers the type of data is involved.
+
+Miscellaneious: JavaScript
+
+1) 2 things that require JavaScript are dynamic operations of HTML, or storing useful values inside variables.
+
+2) You can add JavaScript into an HTML document with the `<script>` elements.
 
 ## Things I want to know more about
+
+How are variables in JavaScript referenced?
