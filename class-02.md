@@ -34,4 +34,4 @@ Conditionals
 
 3) === , !==, <=
 
-4) The difference between && and || are which conditions both side needs to be to evalutate as true. For &&, both condition must be true in order to evaluate true. For ||, only one side of the condition needs to be evaluated as true for the whole condition to be true.
+4) The difference between `&&` and `||` are which conditions both side needs to be to evalutate as true. For `&&`, both condition must be true in order to evaluate true. For `||`, only one side of the condition needs to be evaluated as true for the whole condition to be true.
