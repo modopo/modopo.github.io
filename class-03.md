@@ -28,4 +28,12 @@ Learn JS
 `*=`: the muliplicatoins assignment first multiplies the variable by the value and then assigns the result to the variable
 `%=`: the remainder assignment first divides the variable by the value and then assigns the reaminder to the variable
 
-4)
+4) The result returns a string "10dog". When a Number is added to boolean, the boolean is casted as Number because the + operator assumes a numeric addition and not any other concatenations. The Number casted for false is 0, hence 10 + 0 returns 0. The next concatenations assumes a string concatnation with the string "dog", hence "10dog" is the resulting output.
+
+5) A conditional statement used in a real world would be checking if the password inputted matches to the user that's trying to access an account.
+
+6) A loop is usefull in JavaScript when there are certain steps that need to be repeated a finite amount. One example is to loop through an array and console log the content of the array.
+
+## Things I want to know more about
+
+CSS has been the weakest portion of the full stack for me. I have been primarily studying JS, so design in HTML and CSS have been quite lacking for me.
