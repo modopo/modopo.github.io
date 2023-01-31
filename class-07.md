@@ -18,7 +18,8 @@ Introducing Constructors
 
 Object Prototypes Using A Constructor
 
-1) 
+1) Prototype is a property that every function JS has. It will allow us to share methods across all instances of a function. Also, all JS objects inherit proterties and methods from a prototype. This will allow you to add properties to constructor functions, because they inherit from the prototype.
 
 ## Things I want to know more about
 
+I probablye need to practice the use of prototypes in a real word coding environment. It was hard to wrap my head around that a prototype sits above all objects in JS and that it bridges between instances of the same objects.
