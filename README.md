@@ -22,6 +22,8 @@ This page is to document questions or observations made during the course of the
 
 [Reading Notes Class 09](https://modopo.github.io/class-09)
 
+[Reading Notes Class 10](https://modopo.github.io/class-10)
+
 ## Code 301 - Intermediate Softwrae Development
 
 ## Code 401 - Advanced Software Development
