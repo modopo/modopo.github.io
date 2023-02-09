@@ -30,6 +30,10 @@ This page is to document questions or observations made during the course of the
 
 [Reading Notes Class 13](https://modopo.github.io/class-13)
 
+[Reading Notes Class 14 - a](https://modopo.github.io/class-14a)
+
+[Reading Notes Class 14 - b](https:/.modopo.github.io/class-14b)
+
 ## Code 301 - Intermediate Softwrae Development
 
 ## Code 401 - Advanced Software Development
