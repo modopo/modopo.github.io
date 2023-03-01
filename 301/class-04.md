@@ -14,6 +14,4 @@ Conditional Ternary Operator
 
 2) x ===  y ? console.log(true) : console.lg(false);
 
-3) The same as above, you add the object with the spread operator into the object you want to add it to, separated by a comma.
-
 ## Things I want to know more about
