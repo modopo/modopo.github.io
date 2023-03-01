@@ -20,6 +20,16 @@ Spread Operator
 
 4) The same as above, you add the object with the spread operator into the object you want to add it to, separated by a comma.
 
+Passing Functions between Components
+
+1) You create the function where the state exist on.
+
+2) The increment function increments the count based on a conditional when the name is the same.
+
+3) You pass the method from parent to child with props.
+
+4) The child component would invoke `this.props.yourFunctionPassedIn`.
+
 ## Things I want to know more about
 
-The syntax for React is something else I need to get used to. It seems similar to HTML when creating components, but not quite. Or, I have a complete incorrect understanding of React.
+How complex of a function can you pass down to the child?
