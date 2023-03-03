@@ -26,5 +26,6 @@ This page is to document questions or observations made during the course of the
 - [Reading Notes Class 02](https://modopo.github.io/reading-notes/301/class-02)
 - [Reading Notes Class 03](https://modopo.github.io/reading-notes/301/class-03)
 - [Reading Notes Class 04](https://modopo.github.io/reading-notes/301/class-04)
+- [Reading Notes Class 05](https://modopo.github.io/reading-notes/301/class-05)
 
 ## Code 401 - Advanced Software Development
