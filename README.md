@@ -45,3 +45,7 @@ This page is to document questions or observations made during the course of the
 - [SQL](https://modopo.github.io/reading-notes/401/sql)
 - [Data Structures & Algorithms](https://modopo.github.io/reading-notes/401/dsa)
 - [Engineering Readings](https://modopo.github.io/reading-notes/401/engineering)
+
+***
+
+- [Reading Notes Class 01](https://modopo.github.io/reading-notes/401/class-01)
