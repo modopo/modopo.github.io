@@ -42,3 +42,4 @@ This page is to document questions or observations made during the course of the
 
 - [Terminal Practice and Notes](https://modopo.github.io/reading-notes/401/terminal)
 - [Growth Mindset](https://modopo.github.io/reading-notes/401/growth-mindset)
+- [SQL](https://modopo.github.io/reading-notes/401/sql)
