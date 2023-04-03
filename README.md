@@ -41,3 +41,4 @@ This page is to document questions or observations made during the course of the
 ## Code 401 - Advanced Software Development
 
 - [Terminal Practice and Notes](https://modopo.github.io/reading-notes/401/terminal)
+- [Growth Mindset](https://modopo.github.io/reading-notes/401/growth-mindset)
