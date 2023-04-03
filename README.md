@@ -39,3 +39,5 @@ This page is to document questions or observations made during the course of the
 - [Reading Notes Class 15](https://modopo.github.io/reading-notes/301/class-15)
 
 ## Code 401 - Advanced Software Development
+
+- [Terminal Practice and Notes](https://modopo.github.io/reading-notes/401/terminal)
