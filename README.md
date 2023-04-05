@@ -50,3 +50,4 @@ This page is to document questions or observations made during the course of the
 
 - [Reading Notes Class 01](https://modopo.github.io/reading-notes/401/class-01)
 - [Reading Notes Class 02](https://modopo.github.io/reading-notes/401/class-02)
+- [Reading Notes Class 03](https://modopo.github.io/reading-notes/401/class-03)
