@@ -1,4 +1,4 @@
-# Reading Class 02
+# Reading Class 03
 
 ES6 Classes
 
