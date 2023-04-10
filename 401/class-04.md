@@ -1,25 +1,23 @@
-# Reading Class 04
+# Reading Class 06
 
-NoSQL vs SQL
+Securing Passwords
 
-1) SQL DB is best suited for complex queries.
+1) Hashing is process where data is scrambled into a short string using some sort of encryption algorithm. This process is a one way function, so once scrambled, it can't be unscrambled and reverted back to the original string. To make sure the password is correct, the client compares the two hash to see if they're the same, which indicate they inputted the correct password.
 
-2) NoSQL DB is best for hierarchical data storage.
+2) Bcrypt is a encryption algorithm that uses key stretching, which dynamically increase how expensive the hash function needs to be.
 
-3) SQL is vertically scalable, which means that if there is a need to increase the load to a single server, the hardware can be upgraded to accommodate the increase in load. NoSQL is horizontally scalable, which means that if there is a need to increase the load, multiple servers can be added to the pool to handle the increase in load.
+3) As brute forcing techinque become faster, with Bcrypt, the hash function encryption is also increased, scaling with the brute force efficiency.
 
-SQL Modeling Techniques
+Basic Auth
 
-1) One to many relationship is the relationship of one entry in a table related to many different entries in a separate table.
+1) Basic authentication is a method for HTTP user agent (ex a web browser) to provide a username and password associated when making a request, to gain access to restricted resources provided for the user who logged in.
 
-2) model a diagram
+2) A necessary property in the header for Basic Auth is Authorization: Basic credentials, where credentials is the Base64 encoding of ID and password joined by a single colon :
 
-3) The primary key is the unique identifier of the entry in the table, while a foreign key is a unique identifier to another entry in a different table.
+3) See above.
 
-Express Routing
+OWASP auth cheatsheet
 
-1) Keywords are capitalized and the parameters are lowercase. Keywords are the main 'methods' for SQL while parameters are used to add options to these methods, like filter for a specific argument. 
+1) UserID and a robust set of rules for password is required. At login, the userID and password is securely transmitted over to the server side. If the credentials matches what was stored on the server side, requested data would be 
 
-2) Normalizing the data forces the data to adhere to a specific schema. For the data to be entered into the table, it needs the specific columns.
-
-3) One to one relationship is binding, since there's only one other item related to your current item. One to many relationship is one item relating to many items in another table. Many to many relatnship is mutliple items in the current table can relate to many other items in another table.
+2) Error message from HTTP status codes should be kept to bare mininmum, in order to not reveal any other information about the login. The same with HTML. The behaviour of HTML should be the most generic message about the failed login.
