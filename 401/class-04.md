@@ -1,4 +1,4 @@
-# Reading Class 06
+# Reading Class 04
 
 Securing Passwords
 

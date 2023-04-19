@@ -1,4 +1,4 @@
-# Reading Class 03
+# Reading Class 07
 
 Intro to JWT
 
