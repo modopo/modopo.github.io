@@ -59,3 +59,4 @@ This page is to document questions or observations made during the course of the
 - [Reading Notes Class 12](https://modopo.github.io/reading-notes/401/class-12)
 - [Reading Notes Class 13](https://modopo.github.io/reading-notes/401/class-13)
 - [Reading Notes Class 16](https://modopo.github.io/reading-notes/401/class-16)
+- [Reading Notes Class 17](https://modopo.github.io/reading-notes/401/class-17)
