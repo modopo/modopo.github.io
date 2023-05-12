@@ -1,4 +1,4 @@
-# Reading Class 26
+# Reading Class 27
 
 Thinking in React
 
