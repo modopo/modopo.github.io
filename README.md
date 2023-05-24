@@ -68,3 +68,4 @@ This page is to document questions or observations made during the course of the
 - [Reading Notes Class 29](https://modopo.github.io/reading-notes/401/class-29)
 - [Reading Notes Class 31](https://modopo.github.io/reading-notes/401/class-31)
 - [Reading Notes Class 32](https://modopo.github.io/reading-notes/401/class-32)
+- [Reading Notes Class 36](https://modopo.github.io/reading-notes/401/class-36)
